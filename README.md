@@ -1,6 +1,8 @@
 # Corecpp 2023 allocations tracking [lighting talk](https://www.meetup.com/corecpp/events/293582735/)
 
 ## Repository structure
+In the repository root there is slides from the talk: `Allocation policy enforcement.pdf`.
+
 Every folder in the repository represents one snippet. Each snippet should be buildable in the container described by the Dockerfile in the root of the repository.
 
 To build and attach to the container, invoke the following command in the root of the repository.
